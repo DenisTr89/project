@@ -1,0 +1,8 @@
+Ivanov paper 25
+Petrov pens 5
+Ivanov marker 3
+Scarlett envelope 5
+Ivanov paper 7
+Petrov envelope 20
+Ivanov envelope 30
+Scarlett envelope 9
